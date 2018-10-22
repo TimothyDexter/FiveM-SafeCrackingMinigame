@@ -779,6 +779,7 @@ namespace FamilyRP.Roleplay.Client.Classes.Crime.Robberies
 
 		/// <summary>
 		///     Set shaking effect on the safe dial sprite based on proximity
+		///		Change these values to increase/decrease difficulty.
 		/// </summary>
 		/// <param name="dialPromixityToTarget"></param>
 		private static void SetDialSpriteShake( int dialPromixityToTarget ) {
