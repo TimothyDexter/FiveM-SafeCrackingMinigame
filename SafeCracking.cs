@@ -38,13 +38,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using CitizenFX.Core;
 using CitizenFX.Core.Native;
-using FamilyRP.Roleplay.Client.Classes.Jobs.Police;
-using FamilyRP.Roleplay.Client.Classes.Player;
-using FamilyRP.Roleplay.Enums.Police;
-using FamilyRP.Roleplay.Helpers;
-using FamilyRP.Roleplay.SharedClasses;
 
-namespace FamilyRP.Roleplay.Client.Classes.Crime.Robberies
+namespace Roleplay.Client.Classes.Crime.Robberies
 {
 	public class SafeCracking
 	{
